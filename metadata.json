@@ -1,0 +1,6 @@
+{
+  "name": "Kelas TIB Forum",
+  "description": "Portal Forum Diskusi Kelas TIB yang responsif, mobile-first, dan berjalan secara real-time dengan forum tugas, jawaban, komentar, dan fitur moderasi admin.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
