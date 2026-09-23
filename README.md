@@ -1,5 +1,20 @@
-<div align="center">
-<img width=100% height=100% alt="GHBanner" src="https://i.pinimg.com/736x/70/cf/42/70cf42b0abac3014a605ef14fd0003bd.jpg" />
-</div>
+# Forum Kelas TIB STIKOM
 
+Aplikasi forum diskusi berbasis web untuk mahasiswa kelas TIB di STIKOM.
 
+## Fitur
+
+- Autentikasi pengguna (registrasi dan login).
+- Pembuatan utas diskusi berdasarkan mata kuliah dan topik tugas.
+- Kolom komentar dan diskusi interaktif antar mahasiswa.
+- Panel moderasi sederhana untuk pengelolaan konten.
+
+## Teknologi
+
+- Backend: PHP
+- Basis Data: MySQL
+- Frontend: HTML5, CSS3, JavaScript
+
+## Lisensi
+
+Proyek akademik kelas.
